@@ -1,0 +1,17 @@
+api:
+  build: ./code/api
+  ports:
+    - "8080:8080"
+  links:
+    - auth
+    - geo
+    - profile
+    - rate
+auth:
+  build: ./code/auth
+geo:
+  build: ./code/geo
+profile:
+  build: ./code/profile
+rate:
+  build: ./code/rate

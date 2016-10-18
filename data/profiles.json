@@ -1,0 +1,87 @@
+[
+    {
+        "id": "1",
+        "name": "Inna Garuda Malioboro",
+        "phoneNumber": "(0274) 224536",
+        "description": "Lokasi Hotel sangat strategis di jalan Malioboro dekat dengan Stasiun Tugu, Tugu dan Pasar Beringin Harjo. Nuansa klasik yang kental, loby yang luas serta dilengkapi dengan parkiran yang luas pula, sehingga nyaman untuk liburan bersama keluarga tercinta.",
+        "address": {
+            "streetNumber": "60",
+            "streetName": "Jl. Malioboro",
+            "city": "Yogyakarta",
+            "state": "DIY",
+            "country": "Indonesia",
+            "postalCode": "55198"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Hotel Tentrem Yogyakarta",
+        "phoneNumber": "(0274) 4412289",
+        "description": "Jika Anda memiliki agenda kegiatan yang membutuhkan ruangan besar, maka Hotel Tentrem Yogyakarta adalah pilihan yang tepat. Hotel ini memiliki ruang pertemuan yang luas dan dilengkapi dengan berbagai fasilitas penunjang.",
+        "address": {
+            "streetNumber": "72A",
+            "streetName": "Jl. AM Sangaji",
+            "city": "Yogyakarta",
+            "state": "DIY",
+            "country": "Indonesia",
+            "postalCode": "55172"
+        }
+    },
+    {
+        "id": "3",
+        "name": "Sahid Rich Jogja Hotel",
+        "phoneNumber": "(0274) 5438555",
+        "description": "Sahid Rich Jogja Hotel merupakan hotel rekomendasi untuk Anda, seorang backpacker yang tak hanya mengutamakan bujet, tapi juga kenyamanan saat beristirahat setelah menempuh petualangan seharian penuh.",
+        "address": {
+            "streetNumber": "18",
+            "streetName": "Jl. Magelang Km 6",
+            "city": "Yogyakarta",
+            "state": "DIY",
+            "country": "Indonesia",
+            "postalCode": "55115"
+        }
+    },
+    {
+        "id": "4",
+        "name": "The Alana Yogyakarta Hotel & Convention Center",
+        "phoneNumber": "(0274) 2783700",
+        "description": "Jika Anda memiliki agenda kegiatan yang membutuhkan ruangan besar, maka The Alana Yogyakarta Hotel & Convention Center adalah pilihan yang tepat. Hotel ini memiliki ruang pertemuan yang luas dan dilengkapi dengan berbagai fasilitas penunjang.",
+        "address": {
+            "streetNumber": "7",
+            "streetName": "Jl. Palagan Tentara Pelajar",
+            "city": "Yogyakarta",
+            "state": "DIY",
+            "country": "Indonesia",
+            "postalCode": "55105"
+        }
+    },
+    {
+        "id": "5",
+        "name": "The Edelweiss Hotel Yogyakarta",
+        "phoneNumber": "(0274) 7761380",
+        "description": "The Edelweiss Hotel Yogyakarta merupakan hotel rekomendasi untuk Anda, seorang backpacker yang tak hanya mengutamakan bujet, tapi juga kenyamanan saat beristirahat setelah menempuh petualangan seharian penuh.",
+        "address": {
+            "streetNumber": "17C",
+            "streetName": "Jl. Gejayan",
+            "city": "Yogyakarta",
+            "state": "DIY",
+            "country": "Indonesia",
+            "postalCode": "55109"
+
+        }
+    },
+    {
+        "id": "6",
+        "name": "The 1O1 Yogyakarta Tugu Hotel",
+        "phoneNumber": "(0274) 2844000",
+        "description": "Bagi Anda yang menginginkan kualitas pelayanan oke dengan harga yang ramah di kantong, THE 1O1 Yogyakarta Tugu Hotel adalah pilihan yang tepat. Karena meski murah, akomodasi ini menyediakan fasilitas memadai dan pelayanan yang tetap terjaga mutunya.",
+        "address": {
+            "streetNumber": "103",
+            "streetName": "Jl. Margoutomo",
+            "city": "Yogyakarta",
+            "state": "DIY",
+            "country": "Indonesia",
+            "postalCode": "55189"
+        }
+    }
+]
