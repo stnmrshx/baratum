@@ -1,10 +1,10 @@
 package main
 
 import (
-	"context"
 	"encoding/json"
 	_ "expvar"
 	"flag"
+	"golang.org/x/net/context"
 	"log"
 	"net/http"
 	_ "net/http/pprof"

@@ -3,7 +3,7 @@
         "hotelId": "1",
         "code": "INNA",
         "inDate": "2016-10-20",
-        "outDate": "2015-10-21",
+        "outDate": "2016-10-21",
         "roomType": {
           "bookableRate": 1593750,
           "code": "STD",
@@ -16,7 +16,7 @@
         "hotelId": "2",
         "code": "TENTREM",
         "inDate": "2016-10-20",
-        "outDate": "2015-10-21",
+        "outDate": "2016-10-21",
         "roomType": {
           "bookableRate": 1754500,
           "code": "STD",
@@ -29,7 +29,7 @@
         "hotelId": "3",
         "code": "SAHID",
         "inDate": "2016-10-21",
-        "outDate": "2015-10-22",
+        "outDate": "2016-10-22",
         "roomType": {
           "bookableRate": 729000,
           "code": "STD",
@@ -42,7 +42,7 @@
         "hotelId": "4",
         "code": "ALANA",
         "inDate": "2016-10-22",
-        "outDate": "2015-10-23",
+        "outDate": "2016-10-23",
         "roomType": {
           "bookableRate": 680000,
           "code": "STD",
@@ -55,7 +55,7 @@
         "hotelId": "5",
         "code": "EDELWEISS",
         "inDate": "2016-10-23",
-        "outDate": "2015-10-24",
+        "outDate": "2016-10-24",
         "roomType": {
           "bookableRate": 358000,
           "code": "STD",
@@ -68,7 +68,7 @@
         "hotelId": "6",
         "code": "THE101",
         "inDate": "2016-10-24",
-        "outDate": "2015-10-25",
+        "outDate": "2016-10-25",
         "roomType": {
           "bookableRate": 740469,
           "code": "STD",
@@ -77,5 +77,4 @@
           "totalRateInclusive": 750000
         }
     }
-
 ]
