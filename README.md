@@ -1,0 +1,2 @@
+# baratum
+Sapi Luar Angkasahahahahahasuuuuuuw
